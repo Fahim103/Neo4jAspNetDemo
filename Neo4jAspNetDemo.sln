@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neo4jAspNetDemo", "Neo4jAspNetDemo\Neo4jAspNetDemo.csproj", "{09E75D48-5A18-4D6A-A18D-636D8137D6FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09E75D48-5A18-4D6A-A18D-636D8137D6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09E75D48-5A18-4D6A-A18D-636D8137D6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09E75D48-5A18-4D6A-A18D-636D8137D6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09E75D48-5A18-4D6A-A18D-636D8137D6FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A9E708A-A307-400F-B640-F949BCFE0FF3}
+	EndGlobalSection
+EndGlobal
